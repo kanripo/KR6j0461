@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:58.033521
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:13
 #+TITLE: 佛說無能勝大明王陀羅尼經
 #+PROPERTY: CBETA_ID T21n1233
 #+PROPERTY: ID KR6j0461
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1233
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0461_T_001-0171b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1233¶
-
- 《佛說無能勝大明王陀羅尼經》¶
+No. 1233¶
+《佛說無能勝大明王陀羅尼經》¶
 ¶
 西天中印度摩伽陀國那爛陀寺¶
 三藏傳教大師賜紫沙門臣法天¶
@@ -87,9 +86,9 @@ No.1233¶
 　如汝過去求
 　無上正等覺¶
 　乃得大無畏
-　魔羅軍降伏
+　魔羅軍降伏」
 #+END_VERSE
-」¶
+¶
 
 我今以彼明力。破壞魔羅及大軍眾并諸眷¶
 屬。即說呪曰。
@@ -121,9 +120,9 @@ No.1233¶
 　明力及慧力
 　而為大威德¶
 　凡所作事業
-　能速得成就
+　能速得成就」
 #+END_VERSE
-」¶
+¶
 
 即說呪曰。¶
 
